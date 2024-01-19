@@ -26,4 +26,4 @@ Monata ensures compliance with labor regulations, fostering your talents contrib
 Start hiring in Vietnam.
 Monata review your needs, design the fitting profiles, recruit, onboard, and handle Legal compliance. You produce.
 
-[Get started with Monata](https://monata.io)"The best solution for IT recruitment, employer of record, and contractor management in Vietnam"
+[Get started with Monata](https://monata.io) "The best solution for IT recruitment, employer of record, and contractor management in Vietnam"
