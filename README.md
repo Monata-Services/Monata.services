@@ -1,29 +1,42 @@
-# Monata-EOR
-## Digital Resources for all industries
+# Monata | Tech Procurement & Operations
 ### Recruitment, EOR, Contractor from Vietnam
 
-Monata is built from the ground up for the IT industry, with sharp technical skills and a strong human care.
+Our team's mission to connect with the perfect partners translates into strategic procurement and operational efficiency, empowering organizations to navigate the ever-evolving IT landscape and scale through Outsource & Augmentation.
 
-With the right combination of IT veterans and HR experts, we offer a recruitment solution that is tailor-made to the modern challenges. Digital resources with the right skill set, experience, and affordability have never been more accessible.
+CONNECT. OPERATE. SCALE.
+Small or bold, a successful story starts with a profitable idea, seamless operations, a scalable plan, and like-minded talents.
 
-Vietnam is at the forefront of technology innovations thanks to its Modern Technologies Politic and Education System, aggressively investing in the digital future. The labor market is flourishing of IT talents who, for most, already had several experience with the digital global market.
+##TECH PROCUREMENT##
+CONNECT with digital providers in Vietnam.
 
-We are proud of 15+ years working experience with all kind of talents in the IT Industry in Vietnam working for the Global Market. We bring THE solution to common challenges in the industry: HRs don't know IT, and ITs don't do HR. Monata has the answer to this dilemma. Our EOR service is the best deal to cover qualified and cost-efficient recruitment.
+• Strategy Consulting: We analyze your goals and capabilities. We identify the resources to achieve it and design an agile solution.
+• Sourcing & Connection: Using proven success benchmarks, we identify the most effective IT partners to propel your goals forward.
+• Negotiation & operation set-up: We secure local contracts and establish operations standards to ensure a successful delivery.
+
+##DIGITAL OPERATIONS##
+AUTOMATE your operations, curate your data, digitalize your processes.
+
+• Improve working velocity: Set-up automations and task assistance to save time and increase efficiency
+• Optimize productivity and cost-efficiency: Organize your operations, cleaning duplication, data legacy issues, and track needed KPIs
+• Balance performance & well-being: Optimize your operations at each level. Develop your productive async way of working for multi-location and timezones.
+
+##HR Solutions##
+SCALE your business by recruiting your Dedicated Dream Team.
+
+• IT Recruitment: When HR are technicians, your requirements are understood and hiring process becomes seamless.
+• Employer of Record/Engineering center as a service: With our expertise on local regulations, we pave the way for your global business success. We provide a safe employment framework for your resources to thrive with IT consulting and management support.
 
 ## Our values
-When it comes to Digital Landscape needs, only IT specialist understand IT challenges. As an EOR agency founded with Tech specialists, we share values that enforce the best delivery for your business.
+We bring laser focus to every project, ensuring all resources and efforts are directed towards achieving optimal results.
 
-**Transparent:**
+**Focus**
 We offer transparent pricing and processes, ensuring you understand the costs upfront.
 
-**Industry Standards:**
-Our deep industry knowledge aligns IT with HR for seamless operations.
+**Probe**
+We believe in going beyond the surface. Our team relentlessly probes, asking insightful questions and uncovering hidden opportunities to deliver superior solutions.
 
-**Compliant:**
-Monata ensures compliance with labor regulations, fostering your talents contributions to your projects.
+**Vigilant**
+We maintain a state of constant vigilance, proactively identifying and mitigating risks while safeguarding your interests and exceeding expectations.
 
-## Boost your productivity.
-Start hiring in Vietnam.
-Monata review your needs, design the fitting profiles, recruit, onboard, and handle Legal compliance. You produce.
 
-[Get started with Monata](https://monata.io) "The best solution for IT recruitment, employer of record, and contractor management in Vietnam"
+[Get started with Monata](https://monata.io)
